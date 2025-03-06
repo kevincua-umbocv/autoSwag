@@ -15,4 +15,4 @@ wget https://github.com/swagger-api/swagger-ui/archive/refs/heads/master.zip
 unzip master.zip
 mv swagger-ui-master swagger-ui
 
-aws s3 sync swagger-ui/dist s3://my-swagger-ui --acl public-read
+aws s3 sync swagger-ui s3://umbocv-swagger-tests --acl public-read
