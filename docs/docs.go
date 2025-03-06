@@ -73,7 +73,7 @@ var SwaggerInfo = &swag.Spec{
 	Version:          "1.0",
 	Host:             "light-api.umbocv.com",
 	BasePath:         "/api/v1",
-	Schemes:          []string{},
+	Schemes:          []string{"https"},
 	Title:            "Swagger Example API",
 	Description:      "This is a sample server celler server.",
 	InfoInstanceName: "swagger",

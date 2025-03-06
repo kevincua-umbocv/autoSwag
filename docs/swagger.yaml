@@ -37,6 +37,8 @@ paths:
       summary: List accounts
       tags:
       - accounts
+schemes:
+- https
 securityDefinitions:
   BasicAuth:
     type: basic

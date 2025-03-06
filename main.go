@@ -22,6 +22,7 @@ import (
 
 // @host      light-api.umbocv.com
 // @BasePath  /api/v1
+// @schemes   https
 
 // @securityDefinitions.basic  BasicAuth
 
